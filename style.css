@@ -7,6 +7,7 @@
 }
 
 
+
 section:nth-child(even){
     background: #6030b1;
  
@@ -14,8 +15,12 @@ section:nth-child(even){
 section:nth-child(even) h1{
    color: #F8F8F8;
 }
+html{scroll-behavior: smooth;}
 .white{
     color: #F8F8F8;
+}
+i{
+    color: #242424;
 }
 h1,h2,h3,h4,h5,h6,span{
     color: #242424;
